@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+Khojki:wght@400;700&display=swap");
+
+.App {
+  font-family: "Noto Serif Khojki", cursive;
+  text-align: center;
+}
+
+:root {
+  --primary-color: #d3e473e6;
+  --text-color: #0e17b7;
+}
+
+body h2 {
+  background-color: var(--primary-color);
+  color: var(--text-color);
+}
+
+input {
+  margin: auto;
+  background-color: var(--primary-color);
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+.header {
+  color: var(--text-color);
+  background-color: var(--primary-color);
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+.heading2 {
+  color: var(--text-color);
+  font-size: 15px;
+}
+.heading {
+  color: var(--text-color);
+  margin: auto;
+  font-weight: bold;
+  padding: 1rem;
+}
+.answer {
+  color: var(--text-color);
+  margin: auto;
+  margin-top: "0.5rem";
+}
