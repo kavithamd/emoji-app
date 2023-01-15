@@ -1,8 +1,7 @@
 # Hand Sign Emoji Translator app
-    This project was made as part of level 0 of neogcamp The website is a simplified single page version of Emojipedia. 
-    Users can click on any of the emojis on the website and find out what they mean. 
+    It's a interpreter app which helps user to know the meaning behind the Hand sign Emojis.
     The aim is to help users understand what commonly used emojis mean in conversations, mitigating the confusion created 
-    by the overwhelming number of emoticons that    are now available.
+    by the overwhelming number of emoticons that are now available.
 
 ## Technologies
 * HTML5
